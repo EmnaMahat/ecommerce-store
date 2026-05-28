@@ -78,5 +78,4 @@ The API is deployed on Render:
 ## ✨ Emna Mahat
 Computer programming Student - Algonquin College
 
-**Emna Mahat**  
-Backend Development Student — Algonquin College
+
